@@ -2,7 +2,7 @@
 
 A data engineering project I built to understand how ETL pipelines actually work — not just theory, but end-to-end: reading messy data, cleaning it, running analysis, and saving structured output.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j1iQVggu_F6uDQQpWKOUEx2DGIVr64gP?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![PySpark](https://img.shields.io/badge/PySpark-3.5.1-orange?logo=apachespark)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
